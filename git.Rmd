@@ -13,6 +13,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### a
 
-1. 250.000 l 
-2. 500.000 people
-3. 30%
+1. 7.850.000 l 
+2. 313.092 people
+3. 29%
