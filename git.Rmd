@@ -9,3 +9,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r}
+git config --global user.email "victorbayer48@gmail.com"
+git config --global user.name "victorbayerg"
+
+```
+
